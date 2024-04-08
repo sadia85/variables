@@ -1,2 +1,2 @@
-# variables
-I DID HELLO WORLD THEN ADD VARIABLES
+variables
+
